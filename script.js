@@ -17,7 +17,7 @@ function openmenu(){
   sidemenu.style.right = "0px";
 }
 function closemenu(){
-  sidemenu.style.left = "-200px";
+  sidemenu.style.right = "-200px";
 }
 
 const scriptURL = 'https://script.google.com/macros/s/AKfycbzRp-CLVY03Kv7UKMdsmdk8OJ-jXfVXgdUA1t1sLvMJh7YR836QMiSgEjAsVM4jPZfn/exec'
